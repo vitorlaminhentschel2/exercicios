@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title> Site do vitinho</title>
+    <meta charset="uft-8">
+    </head>
+    <body>
+<h1>Lista não ordenadas</h1>
+<ul>
+    <li>Arroz</li>
+    <li>Feijão</li>
+    <li>Óleo de soja</li>
+    <li>Sal</li>
+</ul>
+<h2>Lista ordenada da copa do mundo</h2>
+<ol>
+    <li>Grupo A: Qatar, Equador, Senegal, Holanda.</li>
+    <li>Grupo B: Inglaterra, Irã, EUA, País de Gales.</li>
+    <li>Grupo B: Inglaterra, Irã, EUA, País de Gales.</li>
+    <li>Grupo D: França, Austrália, Dinamarca, Tunísia.</li>
+    <li>Grupo E: Espanha, Costa Rica, Alemanha, Japão.</li>
+</ol>
+  </body>
+</html>
